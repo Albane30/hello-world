@@ -27,6 +27,7 @@ et un vieux ciré jaune
 j'ai déserté les crasses
 qui m'disaient sois prudent
 la mer c'est degueulasse
+
 les poissons baisent dedans
 
 dès que le vent soufflera 
@@ -34,4 +35,4 @@ je repartira
 dès que les vents souffleront
 nous nous en alleront
 
-
+###Sylvain dit que Renaud n'est pas Reanult
