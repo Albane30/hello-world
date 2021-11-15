@@ -11,6 +11,9 @@ Ceci est un autre paragraphe
 
 
 
+en fait non, ma carriere de chanteur ...c'est clairement pas gagné
+
+
 C'est pas l'homme qui prend la mer
 C'est la mer qui prend l'homme tadadaaa
 moi la mer elle m'a prise
@@ -30,4 +33,5 @@ dès que le vent soufflera
 je repartira
 dès que les vents souffleront
 nous nous en alleront
+
 
